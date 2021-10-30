@@ -3,3 +3,9 @@
 	那么就是本地bash是（git remote add [] url）
 	这样就形成了对应
 	在此之前已经做好了ssh的形成，config里面的name和email配置，当前文件夹的仓库初始化（git init）
+涉及到的一些基本命令：
+git remote 
+git remote -v
+
+git remote add [] url 
+git remote rm []
